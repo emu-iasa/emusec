@@ -1,2 +1,3 @@
-<a class="btn btn-primary" href="https://github.com/emu-iasa/Meeting-Notes/blob/master/2019%20Fall/10.04.19/IASA%20.pdf" role="button"># emu-iasa.github.io/emusec/</a>
+# emu-iasa.github.io/emusec/
+<a class="btn btn-primary" href="https://github.com/emu-iasa/Meeting-Notes/blob/master/2019%20Fall/10.04.19/IASA%20.pdf"
 Student run cyber security interest group at Eastern Michigan University 
